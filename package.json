@@ -1,0 +1,10 @@
+{
+  "name": "shares-anal",
+  "author": "Jerry Vigil",
+  "version": "0.0.1",
+  "dependencies": {
+    "jQuery": "1.6.2",
+    "stats-lite": "1.0.3",
+    "simple-statistics": "0.8.0"
+   }
+}
